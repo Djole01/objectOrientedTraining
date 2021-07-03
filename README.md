@@ -1,1 +1,1 @@
-# objectOrientedTraining
+# ObjectOrientedTraining
